@@ -8,5 +8,12 @@
     android:orientation="vertical"
     tools:context=".FirstActivity">
 
+    <Button
+        android:id="@+id/FinishFirstBtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="첫번째 액티비티 종료"
+        />
+
 </LinearLayout>
 </layout>
